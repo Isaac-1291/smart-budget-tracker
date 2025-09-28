@@ -22,4 +22,4 @@ Visualize spending with charts and graphs
 
 Track monthly budgets and get alerts for overspending
 
-Export data for reports (optional)
+Export data for reports
